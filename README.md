@@ -34,6 +34,7 @@
 | **[Support Pilot AI](https://github.com/binumadhavan2-prog/support-pilot-ai)** | AI support copilot: Claude triages tickets and drafts cited answers using RAG; a human approves every reply | Next.js · TypeScript · pgvector · Drizzle · Claude API |
 | **[Kalyan Finance](https://github.com/binumadhavan2-prog/kalyan-finance)** · [live](https://kalyan-finance.vercel.app) | Finance company website with an English/Tamil toggle and loan EMI calculator *(client project)* | React · React Router · Vite |
 | **[Neema Homes](https://github.com/binumadhavan2-prog/neema-homes)** | Interior design site with a Supabase-backed gallery, enquiries and a secure admin dashboard *(trial project)* | React · Supabase (Auth, RLS) · Vite |
+| **[Kavacham](https://github.com/binumadhavan2-prog/kavacham)** | Windows security & cleanup app: Microsoft Defender plus its own scanning engine (signatures, heuristics, quarantine), privacy alerts, USB and Android phone scanning | Python · Tkinter · Windows APIs · ADB |
 | **[Monkey Play](https://github.com/binumadhavan2-prog/monkey-play)** | Animated desktop companion for Windows and Android, with reminders, weather and a Claude chat | C# · Java · Open-Meteo |
 
 ---
